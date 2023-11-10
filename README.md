@@ -8,6 +8,8 @@ Exania is an experimental artificial intelligence bot, designed to integrate wit
 
 Exania is designed to emulate the conversational style of an 18 year old, providing responses that are simple, jovial, and to the point, yet backed by extensive knowledge in various domains. This bot is not just another chatbot, it's a window into the capabilities of machine learning and the potential for AI to interact in social platforms like Telegram.
 
+![Title](exania_telegram.png)
+
 # Features
 
 * Human Like Interactions: Mimics the communication style of a young adult with a sprinkle of British humor.
@@ -25,6 +27,8 @@ The AI Research Center at Exohood Labs oversees the development and monitoring o
 * Programming Languages: Python, along with other languages suited for AI development.
 
 * Machine Learning & Deep Learning: The crux of Exania's intelligence, utilizing state-of-the-art algorithms and models.
+
+![Title](exania_telegram_test.jpg)
 
 # Machine Learning and Deep Learning Explained
 
