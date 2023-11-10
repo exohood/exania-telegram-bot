@@ -1,3 +1,5 @@
+![Title](exania_banner.png)
+
 # Exania AI - Telegram Bot 🤖
 
 # Introduction
