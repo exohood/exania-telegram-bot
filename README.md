@@ -1,3 +1,21 @@
+> ⚠️ **OFFICIAL NOTICE — EXANIA AI TELEGRAM BOT PERMANENTLY DISCONTINUED**
+>
+> Exohood Labs Inc. has permanently discontinued the deployment, operation, and maintenance of the original Exania AI Telegram Bot.
+>
+> **Exania AI is no longer available or operated by Exohood Labs on Telegram. Any Telegram bot, account, channel, or service currently using the Exania or Exania AI name is not an official Exohood Labs service and is not authorized, operated, supported, or endorsed by the company.**
+>
+> This repository is retained exclusively for historical, educational, and archival purposes. All previously published descriptions, features, testing procedures, Telegram integrations, and contribution instructions refer to the discontinued experimental project and must not be interpreted as currently available functionality.
+>
+> **Users should not share personal information, wallet credentials, private keys, recovery phrases, or make payments to any Telegram bot claiming to represent Exania AI or Exohood Labs.**
+>
+> The discontinuation applies specifically to the Telegram bot. **Exania AI continues as a separate proprietary artificial intelligence research and development initiative of Exohood Labs Inc.** Its internal models, algorithms, and infrastructure are not publicly available under this historical repository's license.
+>
+> Previously published code remains subject to its applicable original license.
+>
+> **Project Status: Permanently Discontinued - No Official Telegram Bot Available.**
+
+---
+
 ![Title](exania_banner.png)
 
 # Exania AI - Telegram Bot 🤖
@@ -103,7 +121,7 @@ Exania AI is released under the MIT License.
 
 MIT License
 
-Copyright (c) 2023 Exohood Labs Limited
+Copyright (c) 2023 Exohood Labs 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
